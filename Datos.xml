@@ -1,0 +1,7 @@
+<Datos>
+	<usuario>
+		<url>jdbc:mysql://localhost:3306/libros</url>
+		<nombre>root</nombre>
+		<password></password>
+	</usuario>
+</Datos>
